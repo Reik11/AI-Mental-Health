@@ -1,0 +1,1 @@
+persiapkan env terlebih dahulu
